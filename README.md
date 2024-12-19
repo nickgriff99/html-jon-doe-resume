@@ -45,13 +45,13 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] Initialize playwright and install project packages
-  - [ ] Use `npm i` to install packages
-  - [ ] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
-  - [ ] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (160mb will be downloaded)
+- [x] Fork the project to your github account
+- [x] Clone the project to your computer
+- [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [x] Initialize playwright and install project packages
+  - [x] Use `npm i` to install packages
+  - [x] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
+  - [x] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (160mb will be downloaded)
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
   - [ ] Use `npm run test` to run all tests in the terminal
@@ -70,17 +70,17 @@ This assignment should prove that a student is able to:
 
 All the tasks in the requirements are related to the index.html file! Consider "Jon Doe" to be replaced with your real first and last name.
 
-- [ ] Create an html file with the name of "index" in the root of the project
-- [ ] Add HTML Boilerplate to the document
-- [ ] Set the document title to be "Jon Doe's resume".
-- [ ] Set the page heading to be "Jon Doe"
-- [ ] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
-- [ ] Add an image with required and important attributes
-  - [ ] The image path should be `https://randomuser.me/api/portraits/men/20.jpg`. Feel free to change the number in the file name to get a new image.
-  - [ ] The image alternative text should match the page title.
-- [ ] Add a section heading with the content of "About Me".
-- [ ] Add a paragraph of text (50 words at least) as the John Doe's bio. You can use random text for the paragraph content.
-- [ ] Add the section heading "My Skills" with h2 tag
+- [x] Create an html file with the name of "index" in the root of the project
+- [x] Add HTML Boilerplate to the document
+- [x] Set the document title to be "Jon Doe's resume".
+- [x] Set the page heading to be "Jon Doe"
+- [x] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
+- [x] Add an image with required and important attributes
+  - [x] The image path should be `https://randomuser.me/api/portraits/men/20.jpg`. Feel free to change the number in the file name to get a new image.
+  - [x] The image alternative text should match the page title.
+- [x] Add a section heading with the content of "About Me".
+- [x] Add a paragraph of text (50 words at least) as the John Doe's bio. You can use random text for the paragraph content.
+- [x] Add the section heading "My Skills" with h2 tag
 - [ ] Add the ORDERED list and add 6 random item into it. (Feel free to use the devslopes website to get the real skill names or use some random skill names)
 - [ ] Add the section heading "My Hobbies" with h2 tag
 - [ ] Add the UNORDERED list of 4 hobbies
